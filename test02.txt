@@ -1,0 +1,2 @@
+hi, 
+in the testing branch , this test02 file will be exited .
