@@ -4,8 +4,7 @@ iam montaser bellah mahmoud ali abutaha ;
 hoo;
 
 Iam 22 years ago ;
-Iam writing code now ;
-<<<<<<< HEAD
-last version
-=======
->>>>>>> 04de6a3f70757642ae2b9b53ee1ae79e80146198
+
+<< here last version >>;
+
+
